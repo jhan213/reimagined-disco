@@ -1,9 +1,0 @@
-
-- Need to update the question content and answers
-    - Currently only shows the questions of previews of the songs
-    - Need questions for artist name, title
-    - Questions are randomly generated but are only for previews
-
-- Need to add objects from Spotify API for 80's, 90's, etc. playlists
-
-- Further formatting
