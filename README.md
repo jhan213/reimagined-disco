@@ -2,7 +2,7 @@
 
 
 Deployed Github Link: 
-https://jaehan213.github.io/Music-Trivia-Web-App/
+https://jaehan213.github.io/silver-music-trivia/
 
 
 ## Description
