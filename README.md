@@ -5,4 +5,5 @@ Music Trivia App is an application that allows users to test their knowledge on 
 
 Link: https://jaehan213.github.io/silver-music-trivia/
 
+## Screenshot
 ![](./preview.PNG)
