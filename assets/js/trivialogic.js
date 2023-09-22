@@ -4,7 +4,6 @@ function getSpotifyResp(selectedGenre){
     console.log(selectedGenre);
     if(selectedGenre == "eighties"){
         genreEndpoint = "https://open.spotify.com/playlist/37i9dQZF1DX4UtSsGT1Sbe?si=97318a04e8474f63";
-        musicObject = musicObject80;
 
     }else if (selectedGenre == "nineties"){
         genreEndpoint = "https://open.spotify.com/playlist/37i9dQZF1DXbTxeAdrVG2l?si=e733b40a623b4e9d";
